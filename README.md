@@ -9,9 +9,11 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 
 ## 🛠️ Minhas Habilidades
 
-- 📌 Linguagem C (nível iniciante)
-- 📌 Java com framework
-- 📌 Angular com API REST
+- 🔧 Linguagem C (nível iniciante)
+- ☕ Java com framework
+- 🅰️ Angular com API REST
+- 📄 HTML CSS básico
+- 🖼️ Bootstrap
 - 🧠 Lógica de programação
 - 📚 Algoritmos básicos
 - 🗂️ Organização e persistência no aprendizado
