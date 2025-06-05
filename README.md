@@ -24,6 +24,8 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 - Resolução de problemas com código  
 - Aprendizado contínuo na área de tecnologia
 
+# 📁 Projetos e trabalhos
+
 ---
 
 ✨ *Sempre em busca de evoluir e colocar em prática o que aprendo!*
