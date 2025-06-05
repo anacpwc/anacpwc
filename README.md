@@ -26,7 +26,8 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 - Aprendizado contínuo na área de tecnologia
 
 # 📁 Projetos e trabalhos
-Grupo 6 - Controle De Restaurante_250401_184603.pdf
+[📄 Prototipação: Controle de Restaurante](Grupo%206%20-%20Controle%20De%20Restaurante_250401_184603.pdf)
+
 
 ---
 
