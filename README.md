@@ -1,4 +1,5 @@
-#👩‍💻 Ana Carolina Claro
+
+## 👩‍💻 Ana Carolina Claro
 
 Atualmente estudando programação e construindo base em desenvolvimento de software. Aberta a oportunidades para adquirir experiência prática.
 
