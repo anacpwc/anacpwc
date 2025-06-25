@@ -21,7 +21,7 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)
 
-<img src="https://dribbble.com/shots/1806197-AngularJS-Logo-Animation?link=1" width="200" alt="Angular logo animado"/>
+<img src="https://tenor.com/view/java-gif-27073671" width="200" alt="Java logo animado"/>
 
 
 
