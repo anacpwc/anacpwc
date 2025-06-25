@@ -6,17 +6,6 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 
 - 🎯 **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (3º semestre)  
 
-## 🛠️ Minhas Habilidades
-
-- 🔧 Linguagem C (nível iniciante)  
-- ☕ Java com framework  
-- 🅰️ Angular com API REST  
-- 📄 HTML e CSS básico  
-- 🖼️ Bootstrap  
-- 🧠 Lógica de programação  
-- 📚 Algoritmos básicos  
-- 🗂️ Organização e persistência no aprendizado  
-
 ## 💡 Interesses
 
 - Desenvolvimento de software  
@@ -31,3 +20,6 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)
+
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300"/>
+
