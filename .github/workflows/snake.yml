@@ -29,7 +29,11 @@ jobs:
       - name: Commit and push SVG
         run: |
           git add dist/github-contribution-grid-snake.svg
-          git commit -m "Generate snake.svg"
-          git push origin HEAD:output
+          if git diff --cached --quiet; then
+            echo "No changes to commit"
+          else
+            git commit -m "Generate snake.svg"
+            git push origin HEAD:output
+          fi
         env:
           GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
