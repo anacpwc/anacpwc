@@ -1,4 +1,3 @@
-
 ## 👩‍💻 Ana Carolina Claro
 
 Atualmente estudando programação e construindo base em desenvolvimento de software. Aberta a oportunidades para adquirir experiência prática.
@@ -6,29 +5,29 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 ## 📌 Sobre mim
 
 - 🎯 **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (3º semestre)  
-- 🎧 **Hobbies:** Fazer crochê, ler, ouvir músicas, desenhar
 
 ## 🛠️ Minhas Habilidades
 
-- 🔧 Linguagem C (nível iniciante)
-- ☕ Java com framework
-- 🅰️ Angular com API REST
-- 📄 HTML CSS básico
-- 🖼️ Bootstrap
-- 🧠 Lógica de programação
-- 📚 Algoritmos básicos
-- 🗂️ Organização e persistência no aprendizado
+- 🔧 Linguagem C (nível iniciante)  
+- ☕ Java com framework  
+- 🅰️ Angular com API REST  
+- 📄 HTML e CSS básico  
+- 🖼️ Bootstrap  
+- 🧠 Lógica de programação  
+- 📚 Algoritmos básicos  
+- 🗂️ Organização e persistência no aprendizado  
 
 ## 💡 Interesses
 
 - Desenvolvimento de software  
 - Resolução de problemas com código  
-- Aprendizado contínuo na área de tecnologia
+- Aprendizado contínuo na área de tecnologia  
 
-# 📁 Projetos e trabalhos
+## 📁 Projetos e trabalhos
+
 [📄 Prototipação: Controle de Restaurante](Grupo%206%20-%20Controle%20De%20Restaurante_250401_184603.pdf)
 
+## 📊 My Stats
 
----
-
-✨ *Sempre em busca de evoluir e colocar em prática o que aprendo!*
+![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)
