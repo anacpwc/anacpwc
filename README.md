@@ -21,6 +21,6 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 ![Ana's GitHub stats](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)
 
-<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/giphy.gif" width="300" alt="Moça programando" />
+<img src="https://media.giphy.com/media/qgQUggAC3Pfv687qPC/gip
 
 
