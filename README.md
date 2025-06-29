@@ -25,6 +25,6 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 
 ## ⏱️ WakaTime Stats
 
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=SEU_USERNAME_AQUI&theme=dracula)
+![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anacpwc&theme=dracula)
 
 
