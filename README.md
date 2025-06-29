@@ -23,8 +23,4 @@ Atualmente estudando programação e construindo base em desenvolvimento de soft
 
 ![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=blue)
 
-## ⏱️ WakaTime Stats
-
-![WakaTime stats](https://github-readme-stats.vercel.app/api/wakatime?username=anacpwc&theme=dracula)
-
 
