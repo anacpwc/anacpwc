@@ -15,7 +15,6 @@ Currently studying programming and building a foundation in software development
 ## 📁  Projects and Work
 
 [📄 Prototyping: Restaurant Control](Grupo%206%20-%20Controle%20De%20Restaurante_250401_184603.pdf)
-[📄 Prototyping: Operating Systems II](Projeto%20SO%20II.pdf)
 
 ## 📊 My Stats
 
