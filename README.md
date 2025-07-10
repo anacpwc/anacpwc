@@ -1,20 +1,20 @@
 ## 👩‍💻 Ana Carolina Claro
 
-Atualmente estudando programação e construindo base em desenvolvimento de software. Aberta a oportunidades para adquirir experiência prática.
+Currently studying programming and building a foundation in software development. Open to opportunities to gain practical experience.
 
-## 📌 Sobre mim
+## 📌 About me
 
-- 🎯 **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (3º semestre)  
+- 🎯 **Education**: FATEC Itu – Analysis and Systems Development (3rd semester)
 
-## 💡 Interesses
+## 💡 Interests
 
-- Desenvolvimento de software  
-- Resolução de problemas com código  
-- Aprendizado contínuo na área de tecnologia  
+- Software development
+- Solving problems with code
+- Continuous learning in technology
 
-## 📁 Projetos e trabalhos
+## 📁  Projects and Work
 
-[📄 Prototipação: Controle de Restaurante](Grupo%206%20-%20Controle%20De%20Restaurante_250401_184603.pdf)
+[📄 Prototyping: Restaurant Control](Grupo%206%20-%20Controle%20De%20Restaurante_250401_184603.pdf)
 
 ## 📊 My Stats
 
