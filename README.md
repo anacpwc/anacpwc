@@ -4,7 +4,7 @@ Currently studying programming and building a foundation in software development
 
 ## 📌 About me
 
-- 🎯 **Education**: FATEC Itu – Analysis and Systems Development (3rd semester)
+- 🎯 **Education**: FATEC Itu – Analysis and Systems Development (4th semester)
 
 ## 💡 Interests
 
