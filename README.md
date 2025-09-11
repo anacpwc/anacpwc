@@ -5,7 +5,7 @@ Estudante de programação e desenvolvimento de software.
 
 ##  Sobre mim
 -  **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (4º semestre)  
--  **Interesses:** Desenvolvimento de software, resolver problemas com código, aprendizado contínuo em tecnologia, gestão de projetos, prototipação de software
+-  **Interesses:** Desenvolvimento de software, resolver problemas com código, aprendizado contínuo em tecnologia, gestão de projetos, prototipação de software.
   
 ## 
 
