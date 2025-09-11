@@ -1,21 +1,19 @@
-## 👩‍💻 Ana Carolina Claro
+# 👋 Olá, eu sou Ana Carolina Claro
 
-Currently studying programming and building a foundation in software development. Open to opportunities to gain practical experience.
+Estudante de programação e desenvolvimento de software.
 
-## 📌 About me
+---
 
-- 🎯 **Education**: FATEC Itu – Analysis and Systems Development (4th semester)
+##  Sobre mim
+-  **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (4º semestre)  
+-  **Interesses:** Desenvolvimento de software, resolver problemas com código, aprendizado contínuo em tecnologia, gestão de projetos, prototipação de software
 
-## 💡 Interests
+---
 
-- Software development
-- Solving problems with code
-- Continuous learning in technology
+## 📁 Projetos
 
-## 📁  Projects and Work
-
-[📄 Prototyping: Restaurant Control](Grupo%206%20-%20Controle%20De%20Restaurante_250401_184603.pdf)  
-[📄 Operating Systems Project II](Projeto%20SO%20II.pdf)
+[📄 Protótipo: Controle de Restaurante](Grupo%206%20-%20Controle%20De%20Restaurante_250401_184603.pdf)  
+[📄 Projeto Sistemas Operacionais II](Projeto%20SO%20II.pdf)
 
 ## 📊 My Stats
 
