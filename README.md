@@ -1,4 +1,4 @@
-# Olá, eu sou Ana Carolina Claro  
+# Olá, eu sou a Ana Carolina Claro  
 
 Estudante de programação e desenvolvimento de software.
 
