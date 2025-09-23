@@ -23,12 +23,7 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (FATEC Itu – 4º 
 
 </div>
 
----
-
-## Estatísticas  
 ![](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)  
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)  
-
----
 
 ![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=blue)
