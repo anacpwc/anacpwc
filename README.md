@@ -9,7 +9,9 @@ Atualmente cursando **Análise e Desenvolvimento de Sistemas (FATEC Itu – 4º 
 
 ## Projetos  
 - [Grupo 6 - Controle De Restaurante](https://github.com/user-attachments/files/22494929/Grupo.6.-.Controle.De.Restaurante_250401_184603.pdf)  
-- [Projeto SO II](https://github.com/user-attachments/files/22494940/Projeto.SO.II.pdf)  
+- [Projeto SO II](https://github.com/user-attachments/files/22494940/Projeto.SO.II.pdf)
+
+##
 
 <div style="display: flex; gap: 10px; align-items: center;">
 
