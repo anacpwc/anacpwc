@@ -3,12 +3,12 @@
 Estudante de programação e desenvolvimento de software.
 
 
-##  Sobre mim
+<h3> Sobre mim </h3>
 -  **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (4º semestre)  
 -  **Interesses:** Desenvolvimento de software, resolver problemas com código, aprendizado contínuo em tecnologia, gestão de projetos, prototipação de software.
   
 
-##  Projetos
+<h3> Projetos </h3> 
 [Grupo 6 - Controle De Restaurante](https://github.com/user-attachments/files/22494929/Grupo.6.-.Controle.De.Restaurante_250401_184603.pdf) <br>
 [Projeto SO II](https://github.com/user-attachments/files/22494940/Projeto.SO.II.pdf)
 
@@ -17,7 +17,7 @@ Estudante de programação e desenvolvimento de software.
 ![](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)
 
-![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=pink)
+![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=blue)
 
 
 
