@@ -1,7 +1,6 @@
 # Olá, eu sou Ana Carolina Claro  
 
 Estudante de programação e desenvolvimento de software.  
-Atualmente cursando **Análise e Desenvolvimento de Sistemas (FATEC Itu – 4º semestre)**.  
 
 ## Sobre mim  
 - **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (4º semestre)  
