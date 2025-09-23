@@ -1,6 +1,6 @@
 # Olá, eu sou Ana Carolina Claro  
 
-Estudante de programação e desenvolvimento de software.  
+Estudante de programação e desenvolvimento de software.
 
 ## Sobre mim  
 - **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (4º semestre)  
@@ -9,6 +9,7 @@ Estudante de programação e desenvolvimento de software.
 ## Projetos  
 - [Grupo 6 - Controle De Restaurante](https://github.com/user-attachments/files/22494929/Grupo.6.-.Controle.De.Restaurante_250401_184603.pdf)  
 - [Projeto SO II](https://github.com/user-attachments/files/22494940/Projeto.SO.II.pdf)
+
 
 ##
 
