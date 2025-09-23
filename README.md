@@ -9,9 +9,15 @@ Estudante de programação e desenvolvimento de software.
   
 ## 
 
+##  Projetos
+[Grupo 6 - Controle De Restaurante](https://github.com/user-attachments/files/22494929/Grupo.6.-.Controle.De.Restaurante_250401_184603.pdf)
+[Projeto SO II](https://github.com/user-attachments/files/22494940/Projeto.SO.II.pdf)
+
+
 ![](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)
 ![](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)
 
-![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=blue)
+![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=red)
+
 
 
