@@ -25,7 +25,9 @@ Estudante de programação e desenvolvimento de software.
 
 ##
 
-![](https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula)  
-![](https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula)  
+<p align="center">
+  <img src="https://github-readme-stats.vercel.app/api?username=anacpwc&show_icons=true&theme=dracula" />
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula" />
+</p>
 
 ![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=blue)
