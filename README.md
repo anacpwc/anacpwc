@@ -6,8 +6,6 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em programação, 
 - **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (5º semestre)  
 - **Interesses:** Desenvolvimento de software, resolver problemas com código, aprendizado contínuo em tecnologia, gestão de projetos, prototipação de software.
 
-##
-
 ## Projetos  
 - [Grupo 6 - Controle De Restaurante](https://github.com/user-attachments/files/22494929/Grupo.6.-.Controle.De.Restaurante_250401_184603.pdf)  
 - [Projeto SO II](https://github.com/user-attachments/files/22494940/Projeto.SO.II.pdf)
