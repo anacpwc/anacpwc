@@ -21,9 +21,8 @@ Estudante de Análise e Desenvolvimento de Sistemas, com foco em programação, 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" width="40"/>
 </p>
 
-##
-
+<p align="center">
   <img src="https://github-readme-stats-six-puce.vercel.app/api/top-langs/?username=anacpwc&layout=compact&theme=dracula" />
-
+</p>
 
 ![Visitantes](https://komarev.com/ghpvc/?username=anacpwc&color=blue)
