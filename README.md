@@ -3,7 +3,7 @@
 Estudante de Análise e Desenvolvimento de Sistemas, com foco em programação, desenvolvimento de software e gestão de projetos.
 
 ## Sobre mim  
-- **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (5º semestre)  
+- **Formação:** FATEC Itu – Análise e Desenvolvimento de Sistemas (6º semestre)  
 - **Interesses:** Desenvolvimento de software, resolver problemas com código, aprendizado contínuo em tecnologia, gestão de projetos, prototipação de software.
 
 ## Projetos  
